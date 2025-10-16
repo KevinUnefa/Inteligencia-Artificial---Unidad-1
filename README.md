@@ -1,0 +1,1 @@
+En este repositorio estan 6 archivos docx en la rama master, que corresponden a un trabajo de la unidad 1 de la asignatura Intelogencia Artificial, los hice por separado ya que los comitee uni por uno
